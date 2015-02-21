@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+  background-color: lightblue;
+}
+
+.darkbar {
+  width: 100%;
+  min-height: 20px;
+  background-color: darkblue;
+}
+
+.sub-footer {
+  text-align: right;
+  line-height: 20px;
+  font-family: Arial;
+  padding-right: 8px;
+  font-size: 9px;
+  color: white;
+}
